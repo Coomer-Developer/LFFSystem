@@ -2,7 +2,6 @@
 
 namespace coomerdev\command;
 
-use coomerdev\cooldown\CooldownAPI;
 use coomerdev\LFFSystem;
 use coomerdev\utils\Utils;
 use pocketmine\command\Command;
