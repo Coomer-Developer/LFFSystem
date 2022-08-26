@@ -1,0 +1,5 @@
+name: LFFSystem
+version: 1.0.0
+main: coomerdev\LFFSystem
+api: 4.0.0
+author: CoomerDeveloper
